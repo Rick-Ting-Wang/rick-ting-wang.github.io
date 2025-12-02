@@ -19,7 +19,7 @@ I am currently a Senior year student at the Communication University of China<br
 - NowCoder : https://www.nowcoder.com/users/320268251<br>
 
 #### Education
-B.S., Computer Science in Artificial Intelligence[Expected Jun 2026]<br>
+B.Eng., Computer Science in Artificial Intelligence[Expected Jun 2026]<br>
 Ranked 1st in major (1/85) with GPA 3.90/4.00<br>
 IELTS 7.5<br>
 **Actively seeking undergraduate transfer, remote research opportunities!**<br>
